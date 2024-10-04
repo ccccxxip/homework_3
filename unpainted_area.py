@@ -19,3 +19,5 @@ for row in canvas:
     unpainted_area += row.count(0)
 
 print(unpainted_area)
+
+
